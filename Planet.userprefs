@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\planet_3.cs">
+    <Files>
+      <File FileName="Assets\Script\planet_1.cs" Line="14" Column="73" />
+      <File FileName="Assets\Script\planet_2.cs" Line="14" Column="73" />
+      <File FileName="Assets\Script\planet_3.cs" Line="15" Column="32" />
+      <File FileName="Assets\Script\planet_4.cs" Line="14" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
